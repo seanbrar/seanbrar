@@ -1,9 +1,9 @@
 # Hello, I'm Sean 👋
 
-I'm an AI Researcher focused on large language models and advanced ML systems.
+AI researcher advancing foundational ML systems and reinforcement learning architectures. Selected for Google DeepMind GSoC 2025.
 
 ## 🔭 Current Focus
-Exploring context handling in large language models and retrieval-augmented generation systems. Particularly interested in optimizing for batch prediction and long-context processing.
+Developing theoretical approaches to reinforcement learning and hybrid neural systems. Particularly interested in sample efficiency, robustness, and formal verification methods.
 
 ## 🛠️ Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,8 +13,8 @@ Exploring context handling in large language models and retrieval-augmented gene
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🔍 Recent Projects
-- [**ContextRAG**](https://github.com/seanbrar/ContextRAG): Vector database system with context-length awareness
-- [**paperweight**](https://github.com/seanbrar/paperweight): AI-powered academic paper filtering and summarization
+- [**ContextRAG**](https://github.com/seanbrar/ContextRAG): Context-optimization system exploring representation challenges
+- [**paperweight**](https://github.com/seanbrar/paperweight): Research analysis framework for ML literature processing
 
 ## 📫 Connect
 [![Website](https://img.shields.io/badge/Website-seanbrar.com-blue?style=flat)](https://seanbrar.com)
