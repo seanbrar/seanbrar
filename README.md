@@ -1,21 +1,19 @@
-# Hello, I'm Sean 👋
+# Sean Brar
 
-AI researcher advancing foundational ML systems and reinforcement learning architectures. Selected for Google DeepMind GSoC 2025.
+ML systems engineer. [Google DeepMind GSoC 2025](https://summerofcode.withgoogle.com/) alumnus.
 
-## 🔭 Current Focus
-Developing theoretical approaches to reinforcement learning and hybrid neural systems. Particularly interested in sample efficiency, robustness, and formal verification methods.
+I build infrastructure that makes AI practical at scale. My GSoC project—the [Gemini Batch Prediction Framework](https://github.com/seanbrar/gemini-batch-prediction)—reduced API costs 75% through async batching and context caching.
 
-## 🛠️ Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Currently pursuing post-bacc CS/Math, preparing for doctoral research in reinforcement learning and efficient ML systems.
 
-## 🔍 Recent Projects
-- [**ContextRAG**](https://github.com/seanbrar/ContextRAG): Context-optimization system exploring representation challenges
-- [**paperweight**](https://github.com/seanbrar/paperweight): Research analysis framework for ML literature processing
+## Featured
 
-## 📫 Connect
-[![Website](https://img.shields.io/badge/Website-seanbrar.com-blue?style=flat)](https://seanbrar.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@seanbrar_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seanbrar_)
+**[Gemini Batch Prediction Framework](https://github.com/seanbrar/gemini-batch-prediction)** — Production async pipeline for Gemini API. Intelligent batching, context caching, 95%+ test coverage. *GSoC 2025 with Google DeepMind.*
+
+**[ContextRAG](https://github.com/seanbrar/ContextRAG)** — Adaptive retrieval processing for LLMs. 30% token reduction via document-length-aware chunking.
+
+**[paperweight](https://github.com/seanbrar/paperweight)** — Academic paper filtering. 300+ papers/hour, 85% relevance precision.
+
+## Connect
+
+[seanbrar.com](https://seanbrar.com) · [LinkedIn](https://linkedin.com/in/seanbrar) · [hello@seanbrar.com](mailto:hello@seanbrar.com)
